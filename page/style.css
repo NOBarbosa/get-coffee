@@ -90,3 +90,7 @@ footer {
     flex-direction: column;
     margin-bottom: 87px;
 }
+footer p {
+    font-size: 18px;
+    line-height: 25px;
+}
